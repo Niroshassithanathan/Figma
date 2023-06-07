@@ -52,9 +52,9 @@ height: 640px;
 background: #F80EE0;
 ```
 ## OUTPUT:
-![Output](./f1.png)
-![Output](./f2.png)
-![Output](./f3.png)
+![Output](./f1.PNG)
+![Output](./f2.PNG)
+![Output](./f3.PNG)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
